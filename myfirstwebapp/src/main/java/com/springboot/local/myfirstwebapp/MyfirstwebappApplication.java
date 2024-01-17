@@ -11,6 +11,8 @@ public class MyfirstwebappApplication {
 		SpringApplication.run(MyfirstwebappApplication.class, args);
 
 		System.out.println("my first commit");
+
+		System.out.println("my second commit");
 	}
 
 }
